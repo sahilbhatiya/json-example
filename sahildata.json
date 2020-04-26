@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Sahil Bhatiya",
+    "sex": "Male",
+    "mobile":"+919904949075",
+    "location":"India"
+  },
+  {
+    "name":"Rutvik Bhatiya",
+    "sex": "Male",
+    "mobile":"+919861765000",
+    "location":"India"
+  },
+   {
+    "name":"Khushali Bhatiya",
+    "sex": "Female",
+    "mobile":"+919924495442",
+    "location":"India"
+  },
+  {
+    "name":"Nirav Desai",
+    "sex": "Male",
+    "mobile":"+14372475918",
+    "location":"canada"
+  }
+]
